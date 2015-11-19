@@ -1,0 +1,34 @@
+<terminal id="21374" type="ATM">
+<server ip="127.0.0.1" port="2003"/> <outLog path="term21374.log" />
+<transactions>
+<transaction id="1" type="deposit" amount="3" deposit="33227781" />
+<transaction id="2" type="deposit" amount="3" deposit="33227781" />
+<transaction id="3" type="deposit" amount="3" deposit="33227781" />
+<transaction id="4" type="deposit" amount="3" deposit="33227781" />
+<transaction id="5" type="deposit" amount="3" deposit="33227781" />
+<transaction id="6" type="deposit" amount="3" deposit="33227781" />
+<transaction id="7" type="deposit" amount="3" deposit="33227781" />
+<transaction id="8" type="deposit" amount="3" deposit="33227781" />
+<transaction id="9" type="deposit" amount="3" deposit="33227781" />
+<transaction id="10" type="deposit" amount="3" deposit="33227781" />
+<transaction id="11" type="deposit" amount="3" deposit="33227781" />
+<transaction id="12" type="deposit" amount="3" deposit="33227781" />
+<transaction id="13" type="deposit" amount="3" deposit="33227781" />
+<transaction id="14" type="deposit" amount="3" deposit="33227781" />
+<transaction id="15" type="deposit" amount="3" deposit="33227781" />
+<transaction id="16" type="deposit" amount="3" deposit="33227781" />
+<transaction id="17" type="deposit" amount="3" deposit="33227781" />
+<transaction id="18" type="deposit" amount="3" deposit="33227781" />
+<transaction id="19" type="deposit" amount="3" deposit="33227781" />
+<transaction id="20" type="deposit" amount="3" deposit="33227781" />
+<transaction id="21" type="deposit" amount="3" deposit="33227781" />
+<transaction id="22" type="deposit" amount="3" deposit="33227781" />
+<transaction id="23" type="deposit" amount="3" deposit="33227781" />
+<transaction id="24" type="deposit" amount="3" deposit="33227781" />
+<transaction id="25" type="deposit" amount="3" deposit="33227781" />
+<transaction id="26" type="deposit" amount="3" deposit="33227781" />
+<transaction id="27" type="deposit" amount="3" deposit="33227781" />
+<transaction id="28" type="deposit" amount="3" deposit="33227781" />
+<transaction id="29" type="deposit" amount="3" deposit="33227781" />
+<transaction id="30" type="deposit" amount="3" deposit="33227781" />
+</transactions> </terminal>

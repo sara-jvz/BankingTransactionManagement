@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE transactions SYSTEM "roles.dtd">
+<transactions>
+    <transaction>transaction 1 : was successful</transaction>
+    <transaction>transaction 2 : was not successful</transaction>
+</transactions>
